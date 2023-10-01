@@ -29,7 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png" alt="pyspark" width="40" height="40"/> 
   </a>
   <a href="https://www.databricks.com/br" target="_blank" rel="noreferrer"> 
-    <img src="https://imgs.search.brave.com/j-llExVqzAvdhAO1AcD4lGWc059JurIMa6zJZlCxJqI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/ZGF0YWJyaWNrcy5z/dmc.svg" alt="databricks" width="40" height="40"/> 
+    <img src="https%3A%2F%2Fimages.prismic.io%2Fcontrary-research%2F1fb59000-0544-4b94-96e0-60ab2536fd53_Databricks%2Blinkedin%2Blogo.webp%3Fauto%3Dcompress%2Cformat&w=256&q=75" alt="databricks" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+    <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
