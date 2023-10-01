@@ -29,7 +29,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png" alt="pyspark" width="40" height="40"/> 
   </a>
   <a href="https://www.databricks.com/br" target="_blank" rel="noreferrer"> 
-    <img src="https://pt.wikipedia.org/wiki/Databricks#/media/Ficheiro:Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
+    <img src="https://imgs.search.brave.com/j-llExVqzAvdhAO1AcD4lGWc059JurIMa6zJZlCxJqI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/ZGF0YWJyaWNrcy5z/dmc.svg" alt="databricks" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
