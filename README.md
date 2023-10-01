@@ -15,7 +15,7 @@
   <a href="https://instagram.com/vinicozendey" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinicozendey" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/vinicius_cozend1" target="blank">
+  <a href="https://www.hackerrank.com/vinicozendey" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinicius_cozend1" height="30" width="40" />
   </a>
 </p>
