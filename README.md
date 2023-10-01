@@ -26,10 +26,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://spark.apache.org/docs/latest/api/python/index.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="pyspark" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1024px-Apache_Spark_logo.svg.png" alt="pyspark" width="40" height="40"/> 
   </a>
   <a href="https://www.databricks.com/br" target="_blank" rel="noreferrer"> 
-    <img src="https://pt.wikipedia.org/wiki/Databricks#/media/Ficheiro:Databricks_Logo.png" alt="python" width="40" height="40"/> 
+    <img src="https://pt.wikipedia.org/wiki/Databricks#/media/Ficheiro:Databricks_Logo.png" alt="databricks" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
