@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vini Cozendey</h1>
 <h3 align="center">A passionate data analytics from Brazil</h3>
 
-- 🔭 I’m currently working on **PicPay - Customer Experience Analytics**
+- 🔭 I’m currently working at **iFood - Growth Data Analytics**
 
 - 📫 How to reach me **vinicius.cozendey@gmail.com**
 
